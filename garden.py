@@ -1,3 +1,4 @@
+# Issue #1: Updated garden advice file logic and parameter handling
 # Hardcoded values for the season and plant type
 season = "summer"  # TODO: Replace with input() to allow user interaction.
 plant_type = "flower"  # TODO: Replace with input() to allow user interaction.
